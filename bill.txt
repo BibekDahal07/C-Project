@@ -1,0 +1,9 @@
+Your Order Summary:
+===================================
+Item		Quantity	Price
+-----------------------------------
+momo           	2		200.00
+===================================
+Total Bill: 200.00
+Discount Applied: 0.00
+Total (after discount): 200.00
